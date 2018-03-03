@@ -1,0 +1,1 @@
+Automtically configure HA Proxy based on Services on ETCD
